@@ -3,3 +3,4 @@ karnivora
 - Kucing
 - Harimau
 - Macan
+- Buaya
