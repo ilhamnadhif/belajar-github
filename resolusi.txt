@@ -2,3 +2,4 @@ RESOLUSI TAHUN INI
 - Belajar Algoritma
 - Belajar Struktur Data
 - Belajar Goroutine
+- Belajar Javascript Async Await
