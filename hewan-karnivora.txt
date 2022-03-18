@@ -6,3 +6,5 @@ karnivora
 - Buaya
 - Ular
 - Serigala
+- Rubah
+- Anjing
