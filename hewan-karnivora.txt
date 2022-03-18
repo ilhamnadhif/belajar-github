@@ -3,5 +3,8 @@ karnivora
 - Kucing
 - Harimau
 - Macan
+- Buaya
+- Ular
+- Serigala
 - Rubah
 - Anjing
