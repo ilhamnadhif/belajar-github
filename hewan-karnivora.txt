@@ -1,0 +1,5 @@
+karnivora
+- Singa
+- Kucing
+- Harimau
+- Macan
