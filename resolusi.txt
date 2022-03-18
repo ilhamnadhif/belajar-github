@@ -1,0 +1,4 @@
+RESOLUSI TAHUN INI
+- Belajar Algoritma
+- Belajar Struktur Data
+- Belajar Goroutine
